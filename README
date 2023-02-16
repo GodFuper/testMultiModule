@@ -1,0 +1,3 @@
+Going to localhost:8080/index.xhtml sends the index.xhtml from the parent webapp to the browser.
+
+Going to localhost:8080/index2.xhtml does not pass index2.xhtml to the browser, although it is in the same module where the project was started.
