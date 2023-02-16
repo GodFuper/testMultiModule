@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>testMultiModule</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>diplom</name>
-    <description>conferences</description>
+    <name>test</name>
+    <description>Test joinfaces multi module</description>
     <modules>
         <module>view</module>
     </modules>

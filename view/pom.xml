@@ -15,8 +15,6 @@
     <properties>
         <java.version>1.8</java.version>
         <joinfaces.version>4.7.5</joinfaces.version>
-        <jodconverter.version>4.4.4</jodconverter.version>
-        <spring-boot-admin-starter-client.version>2.4.1</spring-boot-admin-starter-client.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
